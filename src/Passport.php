@@ -2,6 +2,7 @@
 
 namespace Tylerian\Lumen\Passport;
 
+use Illuminate\Support\Facades\Route;
 use Laravel\Passport\Passport as AbstractPassport;
 use Tylerian\Lumen\Support\Proxies\RouterProxy;
 
